@@ -22,7 +22,7 @@ Follow these steps to get started with the application:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/task-mgmt-cli.git
+   git clone https://github.com/Gaurav-Hero/CLI-TASK-MGMT.git
    cd task-mgmt-cli
    ```
 
